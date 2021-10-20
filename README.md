@@ -1,6 +1,6 @@
 <h1 align='center'> Virus?  </h1> <br>
 
-Just a small code to make a virus out of python turtle graphics.
+Just a small code to make virus using python turtle graphics.
 
 
 Media
